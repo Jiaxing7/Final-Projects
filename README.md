@@ -17,7 +17,7 @@ Finally, I made a book recommendation.
 5. Book recommendation
 
 ### What I used
-Regression model:
+1.Regression model:
 * train_test_split
 * MinMaxScaler
 * OneHotEncoder
@@ -29,7 +29,7 @@ Regression model:
 * DecisionTreeRegressor
 * RandomForestRegressor
 * P-Value
-Book recommendation
+2.Book recommendation
 * Tokenization
 * Stemming and Lemmatization
 * Stop Words Removal
