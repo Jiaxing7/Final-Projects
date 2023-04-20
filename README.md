@@ -39,12 +39,16 @@ Finally, I made a book recommendation.
 
 ### Conclusion
 
-1. 
-3. 
+1. People tend to gravitate towards easy-to-read and imaginative books, as opposed to those that demand concentration and significant mental exertion, such as history books.
+2. More young adult Prefer to read fantasy fiction.
+3. Audiobook is more popular.
 
 
-### Presentation
-* Use [tableau]() to analyze 
+### Improve
+1.Segmentation of users
+2.More diversified ways to make money
+3.Exact advertising place
+4.Attract normal people to write books
 
 
 #### My dataset is downloaded from here:
